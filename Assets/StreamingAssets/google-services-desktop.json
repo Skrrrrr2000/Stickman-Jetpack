@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "268037027282",
+    "project_id": "stickmanjetpack",
+    "storage_bucket": "stickmanjetpack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268037027282:android:edf78484a9bcc811c3c40b",
+        "android_client_info": {
+          "package_name": "com.VirtualIllusions.StickmanJetpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268037027282-fn8o4dkrrrprr2at541u0jskp2ougd38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.VirtualIllusions.StickmanJetpack",
+            "certificate_hash": "1859bbe8140ab778c2256712f62e7226aefc39ba"
+          }
+        },
+        {
+          "client_id": "268037027282-g2vk1kftbt6a3sddhtpk350djs25grik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.VirtualIllusions.StickmanJetpack",
+            "certificate_hash": "fc5060650b0bab6763760ccd8e420ae2cff5e9b5"
+          }
+        },
+        {
+          "client_id": "268037027282-pdf83ktepm1klfsorcscj3u15gk15r76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpnl8YkWDtbDCJ8Kqu3f25pXegB50enhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268037027282-pdf83ktepm1klfsorcscj3u15gk15r76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
